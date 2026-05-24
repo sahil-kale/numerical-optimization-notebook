@@ -1,1 +1,4 @@
 ref.pdf
+.claude/
+.venv
+*.png
